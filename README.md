@@ -1,6 +1,6 @@
 Jonas Ostergaard
 
-B.Sc. Information Engineer
+B.Sc. Information Engineering
 
 Full-Stack Web-/App-Developer
 
